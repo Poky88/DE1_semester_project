@@ -18,6 +18,9 @@ The main contributions of the project are:
 [Photo(s) of your application with labels of individual parts.]
 
 [Link to A3 project poster.]
+![Diagram_1verze](https://github.com/user-attachments/assets/67776c5c-5a96-48a0-ba15-70a98a01e972)
+
+
 
 [Optional: Link to your short video presentation.]
 Hardware description of demo application
